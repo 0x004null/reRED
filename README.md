@@ -1,8 +1,6 @@
 
 ## Summary about r3d.
+            port scanner (SYN, ACK) required python2 .3 ... 
+            ...
             
-            
-            
-
-
 
